@@ -1,7 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosSs&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-read-activity-graph.vercel.app/graph?username=SEU_USUARIO)
-
 <!--
 **GustavoSantosSs/GustavoSantosSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
