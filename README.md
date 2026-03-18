@@ -1,16 +1,25 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantosSs&layout=compact&theme=tokyonight)
+👋 Olá, eu sou o Gustavo Santos
 
-<!--
-**GustavoSantosSs/GustavoSantosSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciências Biológicas
+💻 Desenvolvedor em formação
+🌱 Interesse em tecnologia, sustentabilidade e inovação
+📍 São Paulo - Brasil
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e estou desenvolvendo minhas habilidades em programação, com foco em desenvolvimento web e soluções criativas. Busco unir tecnologia e sustentabilidade para criar projetos com impacto positivo.
+
+🛠️ Tecnologias e Ferramentas
+
+
+
+
+📊 Estatísticas do GitHub
+
+
+
+
+
+
+
+📈 Atividade
